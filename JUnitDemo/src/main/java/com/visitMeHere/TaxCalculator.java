@@ -1,4 +1,4 @@
-package com.mockito;
+package com.visitMeHere;
 
 public class TaxCalculator {
 	
